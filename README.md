@@ -1,4 +1,4 @@
-# Dreaded5
+# Dreadedbot by Fortunatus Mokaya
 
 English version of wabot-aq
 
