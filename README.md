@@ -1,4 +1,4 @@
-# Dreadedbot by Fortunatus Mokaya
+# Dreadedbot by teslas mastermind
 
 English version of wabot-aq
 
