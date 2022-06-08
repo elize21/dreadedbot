@@ -15,7 +15,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/elize21/dreadedbot
-cd elize21
+cd dreadedbot
 bash install.sh
 
 npm start
