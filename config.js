@@ -11,7 +11,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b'
+  'https://api.xteam.xyz': '9dbfefbd20a1b284'
 }
 // Sticker WM
 global.packname = 'I hope you\'re fine'
