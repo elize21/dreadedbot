@@ -7,7 +7,7 @@ handler.before = async function (m, { user, isBotAdmin, isAdmin }) {
   let isGroupLink = linkRegex.exec(m.text)
 
   if (chat.antiLink && isGroupLink) {
-    await m.reply(`*Group Link* Sent!. Leave before I kick 🥱`)
+    await m.reply(`*Group Link* Sent!. Leave before you are kicked 🥱`)
    await this.groupRemove(m.chat, [m.sender])
 
   }
