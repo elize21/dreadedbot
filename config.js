@@ -21,7 +21,7 @@ global.APIKeys = { // APIKey Here
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
-  'https://remove.bg' 'H3LLTwf6QAnBwukcqiu8hhpa'
+  
 }
 
 // Sticker WM
