@@ -10,7 +10,7 @@ let handler = async (m, { conn, text }) => {
      }
 }
 handler.help = ['setbotbio']
-handler.tags = ['owner']
+handler.tags = ['teslas']
 handler.command = /^(setbotbio)$/i
 handler.owner = true
 
